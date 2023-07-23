@@ -1,4 +1,4 @@
-
+from typing import List
 # https://leetcode.com/problems/two-sum/
 
 class Solution:
